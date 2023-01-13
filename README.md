@@ -5,7 +5,8 @@ Luis Enrique Olascoaga Domínguez
 
 
 Descripción de archivos
-source/LuisOlascoaga_TipologiaCicloVidaDatos_Práctica2.ipynb: Código fuente utilizado para relizar la préctica.
+
+source/LuisOlascoaga_TipologiaCicloVidaDatos_Práctica2.ipynb: Código fuente utilizado para realizar la practica.
 
 source/age.csv													Catalogo de edad
 
