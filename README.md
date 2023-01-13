@@ -1,1 +1,1 @@
-# TipologiaCicloVidaDatos_Pr-ctica2
+# TipologiaCicloVidaDatos_Práctica2
